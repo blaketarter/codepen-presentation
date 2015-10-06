@@ -21,3 +21,13 @@
 .reveal .controls div.navigate-down, .reveal .controls div.navigate-down.enabled {
   border-top-color: #F1C40F;
 }
+
+.hashtag {
+  position: fixed;
+  bottom: 50px;
+  left: 50px;
+  z-index: 1000;
+  color: white;
+  font-family: 'Helvetica';
+  font-size: 22px;
+}
